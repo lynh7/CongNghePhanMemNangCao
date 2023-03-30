@@ -1,0 +1,45 @@
+﻿@model Nhap.Models.ViewModel.dangkyuser
+@{
+    ViewData["Title"] = "Dangky";
+    Layout = "~/Views/Shared/_layout_dangnhap.cshtml";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-6 offset-3 border border-primary rounded pl-5 pr-5 pb-5" style="position: absolute; top: 70px; left: 15px; padding-bottom: 7rem!important;">
+            <div class="text-center">
+                <h1 class="text-info">Đăng ký</h1>
+            </div>
+            <h3 class="text-danger text-center">@TempData["errorMessage"]</h3>
+            <form method="post" asp-action="Dangky">
+                <div class="form-group">
+                    <label asp-for="UserName"></label>
+                    <input type="text" asp-for="UserName" placeholder="Enter username" class="form-control" autocomplete="off" />
+                    <span asp-validation-for="UserName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email"></label>
+                    <input type="email" asp-for="Email" placeholder="Enter Email" class="form-control" autocomplete="off" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Phone"></label>
+                    <input type="text" asp-for="Phone" placeholder="Enter Phone number" class="form-control" autocomplete="off" />
+                    <span asp-validation-for="Phone" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password"></label>
+                    <input type="password" asp-for="Password" placeholder="Enter Password" class="form-control" autocomplete="off" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ConfirmPassword"></label>
+                    <input type="password" asp-for="ConfirmPassword" placeholder="Enter ConfirmPassword" class="form-control" autocomplete="off" />
+                    <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" class="btn btn-success btn-lg mb-1 float-right" value="Đăng ký" style="position: absolute; top: 512px; left: 329px;" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
