@@ -1,0 +1,821 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/obj/Debug/net7.0/scopedcss/projectbundle/rv.bundle.scp.css",
+      "PackagePath": "staticwebassets/rv.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/css/maps/style.css.map",
+      "PackagePath": "staticwebassets/css/maps/style.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/blog/post-1.jpg",
+      "PackagePath": "staticwebassets/images/blog/post-1.jpg"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/blog/post-2.jpg",
+      "PackagePath": "staticwebassets/images/blog/post-2.jpg"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/blog/post-3.jpg",
+      "PackagePath": "staticwebassets/images/blog/post-3.jpg"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/blog/post-4.jpg",
+      "PackagePath": "staticwebassets/images/blog/post-4.jpg"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/blog/post-5.jpg",
+      "PackagePath": "staticwebassets/images/blog/post-5.jpg"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/blog/video-icon.png",
+      "PackagePath": "staticwebassets/images/blog/video-icon.png"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/call-to-action/.DS_Store",
+      "PackagePath": "staticwebassets/images/call-to-action/.DS_Store"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/call-to-action/cta-background.jpg",
+      "PackagePath": "staticwebassets/images/call-to-action/cta-background.jpg"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/footer/phone-icon.png",
+      "PackagePath": "staticwebassets/images/footer/phone-icon.png"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/home/.DS_Store",
+      "PackagePath": "staticwebassets/images/home/.DS_Store"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/home/hero.jpg",
+      "PackagePath": "staticwebassets/images/home/hero.jpg"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/logo-footer.png",
+      "PackagePath": "staticwebassets/images/logo-footer.png"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/nav-toogle-icon.png",
+      "PackagePath": "staticwebassets/images/nav-toogle-icon.png"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/products/products-1.jpg",
+      "PackagePath": "staticwebassets/images/products/products-1.jpg"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/products/products-2.jpg",
+      "PackagePath": "staticwebassets/images/products/products-2.jpg"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/products/products-3.jpg",
+      "PackagePath": "staticwebassets/images/products/products-3.jpg"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/products/products-4.jpg",
+      "PackagePath": "staticwebassets/images/products/products-4.jpg"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/user/user-thumb.jpg",
+      "PackagePath": "staticwebassets/images/user/user-thumb.jpg"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/js/scripts.js",
+      "PackagePath": "staticwebassets/js/scripts.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/js/popper.min.js",
+      "PackagePath": "staticwebassets/plugins/bootstrap/dist/js/popper.min.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/fancybox/images/fancybox_loading.gif",
+      "PackagePath": "staticwebassets/plugins/fancybox/images/fancybox_loading.gif"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/fancybox/images/fancybox_loading@2x.gif",
+      "PackagePath": "staticwebassets/plugins/fancybox/images/fancybox_loading@2x.gif"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/fancybox/images/fancybox_overlay.png",
+      "PackagePath": "staticwebassets/plugins/fancybox/images/fancybox_overlay.png"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/fancybox/images/fancybox_sprite.png",
+      "PackagePath": "staticwebassets/plugins/fancybox/images/fancybox_sprite.png"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/fancybox/images/fancybox_sprite@2x.png",
+      "PackagePath": "staticwebassets/plugins/fancybox/images/fancybox_sprite@2x.png"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/fancybox/jquery.fancybox.css",
+      "PackagePath": "staticwebassets/plugins/fancybox/jquery.fancybox.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/fancybox/jquery.fancybox.js",
+      "PackagePath": "staticwebassets/plugins/fancybox/jquery.fancybox.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/fancybox/jquery.fancybox.pack.css",
+      "PackagePath": "staticwebassets/plugins/fancybox/jquery.fancybox.pack.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/fancybox/jquery.fancybox.pack.js",
+      "PackagePath": "staticwebassets/plugins/fancybox/jquery.fancybox.pack.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/css/font-awesome.css",
+      "PackagePath": "staticwebassets/plugins/font-awesome/css/font-awesome.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/plugins/font-awesome/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/plugins/font-awesome/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/plugins/font-awesome/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/plugins/font-awesome/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/plugins/font-awesome/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/plugins/font-awesome/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/plugins/font-awesome/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/animated.less",
+      "PackagePath": "staticwebassets/plugins/font-awesome/less/animated.less"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/bordered-pulled.less",
+      "PackagePath": "staticwebassets/plugins/font-awesome/less/bordered-pulled.less"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/core.less",
+      "PackagePath": "staticwebassets/plugins/font-awesome/less/core.less"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/fixed-width.less",
+      "PackagePath": "staticwebassets/plugins/font-awesome/less/fixed-width.less"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/font-awesome.less",
+      "PackagePath": "staticwebassets/plugins/font-awesome/less/font-awesome.less"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/icons.less",
+      "PackagePath": "staticwebassets/plugins/font-awesome/less/icons.less"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/larger.less",
+      "PackagePath": "staticwebassets/plugins/font-awesome/less/larger.less"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/list.less",
+      "PackagePath": "staticwebassets/plugins/font-awesome/less/list.less"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/mixins.less",
+      "PackagePath": "staticwebassets/plugins/font-awesome/less/mixins.less"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/path.less",
+      "PackagePath": "staticwebassets/plugins/font-awesome/less/path.less"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/rotated-flipped.less",
+      "PackagePath": "staticwebassets/plugins/font-awesome/less/rotated-flipped.less"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/screen-reader.less",
+      "PackagePath": "staticwebassets/plugins/font-awesome/less/screen-reader.less"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/stacked.less",
+      "PackagePath": "staticwebassets/plugins/font-awesome/less/stacked.less"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/variables.less",
+      "PackagePath": "staticwebassets/plugins/font-awesome/less/variables.less"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_animated.scss",
+      "PackagePath": "staticwebassets/plugins/font-awesome/scss/_animated.scss"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_bordered-pulled.scss",
+      "PackagePath": "staticwebassets/plugins/font-awesome/scss/_bordered-pulled.scss"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_core.scss",
+      "PackagePath": "staticwebassets/plugins/font-awesome/scss/_core.scss"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_fixed-width.scss",
+      "PackagePath": "staticwebassets/plugins/font-awesome/scss/_fixed-width.scss"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_icons.scss",
+      "PackagePath": "staticwebassets/plugins/font-awesome/scss/_icons.scss"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_larger.scss",
+      "PackagePath": "staticwebassets/plugins/font-awesome/scss/_larger.scss"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_list.scss",
+      "PackagePath": "staticwebassets/plugins/font-awesome/scss/_list.scss"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/plugins/font-awesome/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_path.scss",
+      "PackagePath": "staticwebassets/plugins/font-awesome/scss/_path.scss"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_rotated-flipped.scss",
+      "PackagePath": "staticwebassets/plugins/font-awesome/scss/_rotated-flipped.scss"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_screen-reader.scss",
+      "PackagePath": "staticwebassets/plugins/font-awesome/scss/_screen-reader.scss"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_stacked.scss",
+      "PackagePath": "staticwebassets/plugins/font-awesome/scss/_stacked.scss"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_variables.scss",
+      "PackagePath": "staticwebassets/plugins/font-awesome/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/font-awesome.scss",
+      "PackagePath": "staticwebassets/plugins/font-awesome/scss/font-awesome.scss"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery-nice-select/css/nice-select.css",
+      "PackagePath": "staticwebassets/plugins/jquery-nice-select/css/nice-select.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery-nice-select/js/fastclick.js",
+      "PackagePath": "staticwebassets/plugins/jquery-nice-select/js/fastclick.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery-nice-select/js/jquery.js",
+      "PackagePath": "staticwebassets/plugins/jquery-nice-select/js/jquery.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery-nice-select/js/jquery.nice-select.js",
+      "PackagePath": "staticwebassets/plugins/jquery-nice-select/js/jquery.nice-select.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery-nice-select/js/jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets/plugins/jquery-nice-select/js/jquery.nice-select.min.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery-nice-select/js/prism.js",
+      "PackagePath": "staticwebassets/plugins/jquery-nice-select/js/prism.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery/dist/core.js",
+      "PackagePath": "staticwebassets/plugins/jquery/dist/core.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/plugins/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/plugins/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/plugins/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery/dist/jquery.slim.js",
+      "PackagePath": "staticwebassets/plugins/jquery/dist/jquery.slim.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery/dist/jquery.slim.min.js",
+      "PackagePath": "staticwebassets/plugins/jquery/dist/jquery.slim.min.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery/dist/jquery.slim.min.map",
+      "PackagePath": "staticwebassets/plugins/jquery/dist/jquery.slim.min.map"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/raty/jquery.raty-fa.js",
+      "PackagePath": "staticwebassets/plugins/raty/jquery.raty-fa.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/seiyria-bootstrap-slider/dist/bootstrap-slider.js",
+      "PackagePath": "staticwebassets/plugins/seiyria-bootstrap-slider/dist/bootstrap-slider.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/seiyria-bootstrap-slider/dist/bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets/plugins/seiyria-bootstrap-slider/dist/bootstrap-slider.min.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/seiyria-bootstrap-slider/dist/css/bootstrap-slider.css",
+      "PackagePath": "staticwebassets/plugins/seiyria-bootstrap-slider/dist/css/bootstrap-slider.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/seiyria-bootstrap-slider/dist/css/bootstrap-slider.min.css",
+      "PackagePath": "staticwebassets/plugins/seiyria-bootstrap-slider/dist/css/bootstrap-slider.min.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/CONTRIBUTING.markdown",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/CONTRIBUTING.markdown"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/ISSUE_TEMPLATE.md",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/ISSUE_TEMPLATE.md"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/README.markdown",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/README.markdown"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/bower.json",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/bower.json"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/component.json",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/component.json"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick.jquery.json",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/slick.jquery.json"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/ajax-loader.gif",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/slick/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/config.rb",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/slick/config.rb"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/fonts/slick.eot",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/slick/fonts/slick.eot"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/fonts/slick.svg",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/slick/fonts/slick.svg"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/fonts/slick.ttf",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/slick/fonts/slick.ttf"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/fonts/slick.woff",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/slick/fonts/slick.woff"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/slick-theme.css",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/slick/slick-theme.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/slick-theme.less",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/slick/slick-theme.less"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/slick-theme.scss",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/slick/slick-theme.scss"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/slick.css",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/slick/slick.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/slick.js",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/slick/slick.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/slick.less",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/slick/slick.less"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/slick.min.js",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/slick/slick.min.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/slick.scss",
+      "PackagePath": "staticwebassets/plugins/slick-carousel/slick/slick.scss"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/smoothscroll/SmoothScroll.js",
+      "PackagePath": "staticwebassets/plugins/smoothscroll/SmoothScroll.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/smoothscroll/SmoothScroll.min.js",
+      "PackagePath": "staticwebassets/plugins/smoothscroll/SmoothScroll.min.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/css/tether-theme-arrows-dark.css",
+      "PackagePath": "staticwebassets/plugins/tether/css/tether-theme-arrows-dark.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/css/tether-theme-arrows-dark.min.css",
+      "PackagePath": "staticwebassets/plugins/tether/css/tether-theme-arrows-dark.min.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/css/tether-theme-arrows.css",
+      "PackagePath": "staticwebassets/plugins/tether/css/tether-theme-arrows.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/css/tether-theme-arrows.min.css",
+      "PackagePath": "staticwebassets/plugins/tether/css/tether-theme-arrows.min.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/css/tether-theme-basic.css",
+      "PackagePath": "staticwebassets/plugins/tether/css/tether-theme-basic.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/css/tether-theme-basic.min.css",
+      "PackagePath": "staticwebassets/plugins/tether/css/tether-theme-basic.min.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/css/tether.css",
+      "PackagePath": "staticwebassets/plugins/tether/css/tether.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/css/tether.min.css",
+      "PackagePath": "staticwebassets/plugins/tether/css/tether.min.css"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/js/tether.js",
+      "PackagePath": "staticwebassets/plugins/tether/js/tether.js"
+    },
+    {
+      "Id": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/js/tether.min.js",
+      "PackagePath": "staticwebassets/plugins/tether/js/tether.min.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.rv.props",
+      "PackagePath": "build\\rv.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.rv.props",
+      "PackagePath": "buildMultiTargeting\\rv.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.rv.props",
+      "PackagePath": "buildTransitive\\rv.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.rv.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
