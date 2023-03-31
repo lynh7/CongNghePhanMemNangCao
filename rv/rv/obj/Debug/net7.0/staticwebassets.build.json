@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7Jjhu6Bbawf4sebxfiE/8oMNXEpt2gHWrDw9WI8Y6gU=",
+  "Hash": "B2UkbJv5vUJCMKVJ9uyoTrrTBoii2JfEsYHR/Y8vyec=",
   "Source": "rv",
   "BasePath": "_content/rv",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "rv/wwwroot",
       "Source": "rv",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "Pattern": "**"
     }
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "/Users/khoamai/.nuget/packages/aspnetcorehero.toastnotification/1.1.0/staticwebassets/toastify.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/obj/Debug/net7.0/scopedcss/bundle/rv.styles.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/obj/Debug/net7.0/scopedcss/bundle/rv.styles.css",
       "SourceId": "rv",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/rv",
       "RelativePath": "rv.styles.css",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/khoamai/Desktop/rv/rv/rv/obj/Debug/net7.0/scopedcss/bundle/rv.styles.css"
+      "OriginalItemSpec": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/obj/Debug/net7.0/scopedcss/bundle/rv.styles.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/obj/Debug/net7.0/scopedcss/projectbundle/rv.bundle.scp.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/obj/Debug/net7.0/scopedcss/projectbundle/rv.bundle.scp.css",
       "SourceId": "rv",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/rv",
       "RelativePath": "rv.bundle.scp.css",
       "AssetKind": "All",
@@ -116,13 +116,30 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/khoamai/Desktop/rv/rv/rv/obj/Debug/net7.0/scopedcss/projectbundle/rv.bundle.scp.css"
+      "OriginalItemSpec": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/obj/Debug/net7.0/scopedcss/projectbundle/rv.bundle.scp.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/css/maps/style.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/.DS_Store",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
+      "BasePath": "_content/rv",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/css/maps/style.css.map",
+      "SourceId": "rv",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "css/maps/style.css.map",
       "AssetKind": "All",
@@ -136,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/css/maps/style.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/css/site.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/css/site.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -153,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/css/style.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/css/style.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -170,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/css/style.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/favicon.ico",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/favicon.ico",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -187,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/.DS_Store",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/.DS_Store",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/.DS_Store",
       "AssetKind": "All",
@@ -204,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/images/.DS_Store"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/blog/post-1.jpg",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/blog/post-1.jpg",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/blog/post-1.jpg",
       "AssetKind": "All",
@@ -221,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/images/blog/post-1.jpg"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/blog/post-2.jpg",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/blog/post-2.jpg",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/blog/post-2.jpg",
       "AssetKind": "All",
@@ -238,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/images/blog/post-2.jpg"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/blog/post-3.jpg",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/blog/post-3.jpg",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/blog/post-3.jpg",
       "AssetKind": "All",
@@ -255,10 +272,10 @@
       "OriginalItemSpec": "wwwroot/images/blog/post-3.jpg"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/blog/post-4.jpg",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/blog/post-4.jpg",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/blog/post-4.jpg",
       "AssetKind": "All",
@@ -272,10 +289,10 @@
       "OriginalItemSpec": "wwwroot/images/blog/post-4.jpg"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/blog/post-5.jpg",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/blog/post-5.jpg",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/blog/post-5.jpg",
       "AssetKind": "All",
@@ -289,10 +306,10 @@
       "OriginalItemSpec": "wwwroot/images/blog/post-5.jpg"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/blog/video-icon.png",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/blog/video-icon.png",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/blog/video-icon.png",
       "AssetKind": "All",
@@ -306,10 +323,10 @@
       "OriginalItemSpec": "wwwroot/images/blog/video-icon.png"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/call-to-action/.DS_Store",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/call-to-action/.DS_Store",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/call-to-action/.DS_Store",
       "AssetKind": "All",
@@ -323,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/images/call-to-action/.DS_Store"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/call-to-action/cta-background.jpg",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/call-to-action/cta-background.jpg",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/call-to-action/cta-background.jpg",
       "AssetKind": "All",
@@ -340,10 +357,10 @@
       "OriginalItemSpec": "wwwroot/images/call-to-action/cta-background.jpg"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/footer/phone-icon.png",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/footer/phone-icon.png",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/footer/phone-icon.png",
       "AssetKind": "All",
@@ -357,10 +374,10 @@
       "OriginalItemSpec": "wwwroot/images/footer/phone-icon.png"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/home/.DS_Store",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/home/.DS_Store",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/home/.DS_Store",
       "AssetKind": "All",
@@ -374,10 +391,10 @@
       "OriginalItemSpec": "wwwroot/images/home/.DS_Store"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/home/hero.jpg",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/home/hero.jpg",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/home/hero.jpg",
       "AssetKind": "All",
@@ -391,10 +408,10 @@
       "OriginalItemSpec": "wwwroot/images/home/hero.jpg"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/logo-footer.png",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/logo-footer.png",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/logo-footer.png",
       "AssetKind": "All",
@@ -408,10 +425,10 @@
       "OriginalItemSpec": "wwwroot/images/logo-footer.png"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/logo.png",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/logo.png",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -425,10 +442,10 @@
       "OriginalItemSpec": "wwwroot/images/logo.png"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/nav-toogle-icon.png",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/nav-toogle-icon.png",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/nav-toogle-icon.png",
       "AssetKind": "All",
@@ -442,10 +459,10 @@
       "OriginalItemSpec": "wwwroot/images/nav-toogle-icon.png"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/products/products-1.jpg",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/products/products-1.jpg",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/products/products-1.jpg",
       "AssetKind": "All",
@@ -459,10 +476,10 @@
       "OriginalItemSpec": "wwwroot/images/products/products-1.jpg"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/products/products-2.jpg",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/products/products-2.jpg",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/products/products-2.jpg",
       "AssetKind": "All",
@@ -476,10 +493,10 @@
       "OriginalItemSpec": "wwwroot/images/products/products-2.jpg"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/products/products-3.jpg",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/products/products-3.jpg",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/products/products-3.jpg",
       "AssetKind": "All",
@@ -493,10 +510,10 @@
       "OriginalItemSpec": "wwwroot/images/products/products-3.jpg"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/products/products-4.jpg",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/products/products-4.jpg",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/products/products-4.jpg",
       "AssetKind": "All",
@@ -510,10 +527,10 @@
       "OriginalItemSpec": "wwwroot/images/products/products-4.jpg"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/images/user/user-thumb.jpg",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/images/user/user-thumb.jpg",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "images/user/user-thumb.jpg",
       "AssetKind": "All",
@@ -527,10 +544,10 @@
       "OriginalItemSpec": "wwwroot/images/user/user-thumb.jpg"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/js/scripts.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/js/scripts.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "js/scripts.js",
       "AssetKind": "All",
@@ -544,10 +561,10 @@
       "OriginalItemSpec": "wwwroot/js/scripts.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/js/site.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/js/site.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -561,10 +578,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -578,10 +595,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -595,10 +612,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -612,10 +629,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -629,10 +646,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -646,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -663,10 +680,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -680,10 +697,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -697,10 +714,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -714,10 +731,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -731,10 +748,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -748,10 +765,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -765,10 +782,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -782,10 +799,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -799,10 +816,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -816,10 +833,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -833,10 +850,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -850,10 +867,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -867,10 +884,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -884,10 +901,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -901,10 +918,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -918,10 +935,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -935,10 +952,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -952,10 +969,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -969,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -986,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1003,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1020,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1037,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1054,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1071,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1088,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1105,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1122,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1139,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1156,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1173,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1190,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1207,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1224,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1241,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1258,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1275,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1292,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1309,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1326,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1343,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1360,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1377,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1394,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1411,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1428,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1445,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1462,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1479,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1496,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1513,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1530,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1547,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1564,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1581,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1598,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1615,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1632,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1649,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1666,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1683,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1700,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1717,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1734,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1751,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1768,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1785,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1802,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1819,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1836,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1853,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1870,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/bootstrap/dist/js/popper.min.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/bootstrap/dist/js/popper.min.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/bootstrap/dist/js/popper.min.js",
       "AssetKind": "All",
@@ -1887,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot/plugins/bootstrap/dist/js/popper.min.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/fancybox/images/fancybox_loading.gif",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/fancybox/images/fancybox_loading.gif",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/fancybox/images/fancybox_loading.gif",
       "AssetKind": "All",
@@ -1904,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot/plugins/fancybox/images/fancybox_loading.gif"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/fancybox/images/fancybox_loading@2x.gif",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/fancybox/images/fancybox_loading@2x.gif",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/fancybox/images/fancybox_loading@2x.gif",
       "AssetKind": "All",
@@ -1921,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot/plugins/fancybox/images/fancybox_loading@2x.gif"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/fancybox/images/fancybox_overlay.png",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/fancybox/images/fancybox_overlay.png",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/fancybox/images/fancybox_overlay.png",
       "AssetKind": "All",
@@ -1938,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot/plugins/fancybox/images/fancybox_overlay.png"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/fancybox/images/fancybox_sprite.png",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/fancybox/images/fancybox_sprite.png",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/fancybox/images/fancybox_sprite.png",
       "AssetKind": "All",
@@ -1955,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot/plugins/fancybox/images/fancybox_sprite.png"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/fancybox/images/fancybox_sprite@2x.png",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/fancybox/images/fancybox_sprite@2x.png",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/fancybox/images/fancybox_sprite@2x.png",
       "AssetKind": "All",
@@ -1972,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot/plugins/fancybox/images/fancybox_sprite@2x.png"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/fancybox/jquery.fancybox.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/fancybox/jquery.fancybox.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/fancybox/jquery.fancybox.css",
       "AssetKind": "All",
@@ -1989,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot/plugins/fancybox/jquery.fancybox.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/fancybox/jquery.fancybox.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/fancybox/jquery.fancybox.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/fancybox/jquery.fancybox.js",
       "AssetKind": "All",
@@ -2006,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot/plugins/fancybox/jquery.fancybox.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/fancybox/jquery.fancybox.pack.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/fancybox/jquery.fancybox.pack.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/fancybox/jquery.fancybox.pack.css",
       "AssetKind": "All",
@@ -2023,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot/plugins/fancybox/jquery.fancybox.pack.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/fancybox/jquery.fancybox.pack.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/fancybox/jquery.fancybox.pack.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/fancybox/jquery.fancybox.pack.js",
       "AssetKind": "All",
@@ -2040,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot/plugins/fancybox/jquery.fancybox.pack.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/css/font-awesome.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/css/font-awesome.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/css/font-awesome.css",
       "AssetKind": "All",
@@ -2057,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/css/font-awesome.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/css/font-awesome.min.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/css/font-awesome.min.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -2074,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/css/font-awesome.min.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.eot",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.eot",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -2091,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.eot"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.svg",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.svg",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -2108,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.svg"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.ttf",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.ttf",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -2125,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.ttf"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.woff",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.woff",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -2142,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.woff"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.woff2",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.woff2",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -2159,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/fonts/fontawesome-webfont.woff2"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/fonts/FontAwesome.otf",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/fonts/FontAwesome.otf",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -2176,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/fonts/FontAwesome.otf"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/animated.less",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/less/animated.less",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/less/animated.less",
       "AssetKind": "All",
@@ -2193,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/less/animated.less"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/bordered-pulled.less",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/less/bordered-pulled.less",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/less/bordered-pulled.less",
       "AssetKind": "All",
@@ -2210,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/less/bordered-pulled.less"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/core.less",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/less/core.less",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/less/core.less",
       "AssetKind": "All",
@@ -2227,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/less/core.less"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/fixed-width.less",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/less/fixed-width.less",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/less/fixed-width.less",
       "AssetKind": "All",
@@ -2244,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/less/fixed-width.less"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/font-awesome.less",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/less/font-awesome.less",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/less/font-awesome.less",
       "AssetKind": "All",
@@ -2261,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/less/font-awesome.less"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/icons.less",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/less/icons.less",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/less/icons.less",
       "AssetKind": "All",
@@ -2278,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/less/icons.less"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/larger.less",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/less/larger.less",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/less/larger.less",
       "AssetKind": "All",
@@ -2295,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/less/larger.less"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/list.less",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/less/list.less",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/less/list.less",
       "AssetKind": "All",
@@ -2312,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/less/list.less"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/mixins.less",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/less/mixins.less",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/less/mixins.less",
       "AssetKind": "All",
@@ -2329,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/less/mixins.less"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/path.less",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/less/path.less",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/less/path.less",
       "AssetKind": "All",
@@ -2346,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/less/path.less"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/rotated-flipped.less",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/less/rotated-flipped.less",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/less/rotated-flipped.less",
       "AssetKind": "All",
@@ -2363,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/less/rotated-flipped.less"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/screen-reader.less",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/less/screen-reader.less",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/less/screen-reader.less",
       "AssetKind": "All",
@@ -2380,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/less/screen-reader.less"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/stacked.less",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/less/stacked.less",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/less/stacked.less",
       "AssetKind": "All",
@@ -2397,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/less/stacked.less"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/less/variables.less",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/less/variables.less",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/less/variables.less",
       "AssetKind": "All",
@@ -2414,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/less/variables.less"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_animated.scss",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/scss/_animated.scss",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/scss/_animated.scss",
       "AssetKind": "All",
@@ -2431,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/scss/_animated.scss"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_bordered-pulled.scss",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/scss/_bordered-pulled.scss",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/scss/_bordered-pulled.scss",
       "AssetKind": "All",
@@ -2448,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/scss/_bordered-pulled.scss"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_core.scss",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/scss/_core.scss",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/scss/_core.scss",
       "AssetKind": "All",
@@ -2465,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/scss/_core.scss"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_fixed-width.scss",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/scss/_fixed-width.scss",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/scss/_fixed-width.scss",
       "AssetKind": "All",
@@ -2482,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/scss/_fixed-width.scss"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_icons.scss",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/scss/_icons.scss",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/scss/_icons.scss",
       "AssetKind": "All",
@@ -2499,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/scss/_icons.scss"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_larger.scss",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/scss/_larger.scss",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/scss/_larger.scss",
       "AssetKind": "All",
@@ -2516,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/scss/_larger.scss"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_list.scss",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/scss/_list.scss",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/scss/_list.scss",
       "AssetKind": "All",
@@ -2533,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/scss/_list.scss"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_mixins.scss",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/scss/_mixins.scss",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/scss/_mixins.scss",
       "AssetKind": "All",
@@ -2550,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/scss/_mixins.scss"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_path.scss",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/scss/_path.scss",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/scss/_path.scss",
       "AssetKind": "All",
@@ -2567,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/scss/_path.scss"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_rotated-flipped.scss",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/scss/_rotated-flipped.scss",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/scss/_rotated-flipped.scss",
       "AssetKind": "All",
@@ -2584,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/scss/_rotated-flipped.scss"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_screen-reader.scss",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/scss/_screen-reader.scss",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/scss/_screen-reader.scss",
       "AssetKind": "All",
@@ -2601,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/scss/_screen-reader.scss"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_stacked.scss",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/scss/_stacked.scss",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/scss/_stacked.scss",
       "AssetKind": "All",
@@ -2618,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/scss/_stacked.scss"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/_variables.scss",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/scss/_variables.scss",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/scss/_variables.scss",
       "AssetKind": "All",
@@ -2635,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/scss/_variables.scss"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/font-awesome/scss/font-awesome.scss",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/font-awesome/scss/font-awesome.scss",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/font-awesome/scss/font-awesome.scss",
       "AssetKind": "All",
@@ -2652,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot/plugins/font-awesome/scss/font-awesome.scss"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery-nice-select/css/nice-select.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/jquery-nice-select/css/nice-select.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/jquery-nice-select/css/nice-select.css",
       "AssetKind": "All",
@@ -2669,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot/plugins/jquery-nice-select/css/nice-select.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery-nice-select/js/fastclick.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/jquery-nice-select/js/fastclick.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/jquery-nice-select/js/fastclick.js",
       "AssetKind": "All",
@@ -2686,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot/plugins/jquery-nice-select/js/fastclick.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery-nice-select/js/jquery.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/jquery-nice-select/js/jquery.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/jquery-nice-select/js/jquery.js",
       "AssetKind": "All",
@@ -2703,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot/plugins/jquery-nice-select/js/jquery.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery-nice-select/js/jquery.nice-select.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/jquery-nice-select/js/jquery.nice-select.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/jquery-nice-select/js/jquery.nice-select.js",
       "AssetKind": "All",
@@ -2720,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot/plugins/jquery-nice-select/js/jquery.nice-select.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery-nice-select/js/jquery.nice-select.min.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/jquery-nice-select/js/jquery.nice-select.min.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/jquery-nice-select/js/jquery.nice-select.min.js",
       "AssetKind": "All",
@@ -2737,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot/plugins/jquery-nice-select/js/jquery.nice-select.min.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery-nice-select/js/prism.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/jquery-nice-select/js/prism.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/jquery-nice-select/js/prism.js",
       "AssetKind": "All",
@@ -2754,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot/plugins/jquery-nice-select/js/prism.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery/dist/core.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/jquery/dist/core.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/jquery/dist/core.js",
       "AssetKind": "All",
@@ -2771,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot/plugins/jquery/dist/core.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery/dist/jquery.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/jquery/dist/jquery.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2788,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot/plugins/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery/dist/jquery.min.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/jquery/dist/jquery.min.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2805,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot/plugins/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery/dist/jquery.min.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/jquery/dist/jquery.min.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2822,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot/plugins/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery/dist/jquery.slim.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/jquery/dist/jquery.slim.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/jquery/dist/jquery.slim.js",
       "AssetKind": "All",
@@ -2839,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot/plugins/jquery/dist/jquery.slim.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery/dist/jquery.slim.min.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/jquery/dist/jquery.slim.min.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/jquery/dist/jquery.slim.min.js",
       "AssetKind": "All",
@@ -2856,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot/plugins/jquery/dist/jquery.slim.min.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/jquery/dist/jquery.slim.min.map",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/jquery/dist/jquery.slim.min.map",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/jquery/dist/jquery.slim.min.map",
       "AssetKind": "All",
@@ -2873,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot/plugins/jquery/dist/jquery.slim.min.map"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/raty/jquery.raty-fa.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/raty/jquery.raty-fa.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/raty/jquery.raty-fa.js",
       "AssetKind": "All",
@@ -2890,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot/plugins/raty/jquery.raty-fa.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/seiyria-bootstrap-slider/dist/bootstrap-slider.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/seiyria-bootstrap-slider/dist/bootstrap-slider.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/seiyria-bootstrap-slider/dist/bootstrap-slider.js",
       "AssetKind": "All",
@@ -2907,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot/plugins/seiyria-bootstrap-slider/dist/bootstrap-slider.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/seiyria-bootstrap-slider/dist/bootstrap-slider.min.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/seiyria-bootstrap-slider/dist/bootstrap-slider.min.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/seiyria-bootstrap-slider/dist/bootstrap-slider.min.js",
       "AssetKind": "All",
@@ -2924,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot/plugins/seiyria-bootstrap-slider/dist/bootstrap-slider.min.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/seiyria-bootstrap-slider/dist/css/bootstrap-slider.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/seiyria-bootstrap-slider/dist/css/bootstrap-slider.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/seiyria-bootstrap-slider/dist/css/bootstrap-slider.css",
       "AssetKind": "All",
@@ -2941,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot/plugins/seiyria-bootstrap-slider/dist/css/bootstrap-slider.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/seiyria-bootstrap-slider/dist/css/bootstrap-slider.min.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/seiyria-bootstrap-slider/dist/css/bootstrap-slider.min.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/seiyria-bootstrap-slider/dist/css/bootstrap-slider.min.css",
       "AssetKind": "All",
@@ -2958,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot/plugins/seiyria-bootstrap-slider/dist/css/bootstrap-slider.min.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/bower.json",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/bower.json",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/bower.json",
       "AssetKind": "All",
@@ -2975,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/bower.json"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/component.json",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/component.json",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/component.json",
       "AssetKind": "All",
@@ -2992,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/component.json"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/CONTRIBUTING.markdown",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/CONTRIBUTING.markdown",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/CONTRIBUTING.markdown",
       "AssetKind": "All",
@@ -3009,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/CONTRIBUTING.markdown"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/ISSUE_TEMPLATE.md",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/ISSUE_TEMPLATE.md",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/ISSUE_TEMPLATE.md",
       "AssetKind": "All",
@@ -3026,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/ISSUE_TEMPLATE.md"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/README.markdown",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/README.markdown",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/README.markdown",
       "AssetKind": "All",
@@ -3043,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/README.markdown"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick.jquery.json",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/slick.jquery.json",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/slick.jquery.json",
       "AssetKind": "All",
@@ -3060,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/slick.jquery.json"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/ajax-loader.gif",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/slick/ajax-loader.gif",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/slick/ajax-loader.gif",
       "AssetKind": "All",
@@ -3077,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/slick/ajax-loader.gif"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/config.rb",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/slick/config.rb",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/slick/config.rb",
       "AssetKind": "All",
@@ -3094,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/slick/config.rb"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/fonts/slick.eot",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/slick/fonts/slick.eot",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/slick/fonts/slick.eot",
       "AssetKind": "All",
@@ -3111,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/slick/fonts/slick.eot"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/fonts/slick.svg",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/slick/fonts/slick.svg",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/slick/fonts/slick.svg",
       "AssetKind": "All",
@@ -3128,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/slick/fonts/slick.svg"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/fonts/slick.ttf",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/slick/fonts/slick.ttf",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/slick/fonts/slick.ttf",
       "AssetKind": "All",
@@ -3145,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/slick/fonts/slick.ttf"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/fonts/slick.woff",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/slick/fonts/slick.woff",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/slick/fonts/slick.woff",
       "AssetKind": "All",
@@ -3162,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/slick/fonts/slick.woff"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/slick-theme.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/slick/slick-theme.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/slick/slick-theme.css",
       "AssetKind": "All",
@@ -3179,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/slick/slick-theme.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/slick-theme.less",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/slick/slick-theme.less",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/slick/slick-theme.less",
       "AssetKind": "All",
@@ -3196,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/slick/slick-theme.less"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/slick-theme.scss",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/slick/slick-theme.scss",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/slick/slick-theme.scss",
       "AssetKind": "All",
@@ -3213,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/slick/slick-theme.scss"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/slick.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/slick/slick.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/slick/slick.css",
       "AssetKind": "All",
@@ -3230,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/slick/slick.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/slick.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/slick/slick.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/slick/slick.js",
       "AssetKind": "All",
@@ -3247,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/slick/slick.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/slick.less",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/slick/slick.less",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/slick/slick.less",
       "AssetKind": "All",
@@ -3264,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/slick/slick.less"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/slick.min.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/slick/slick.min.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/slick/slick.min.js",
       "AssetKind": "All",
@@ -3281,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/slick/slick.min.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/slick-carousel/slick/slick.scss",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/slick-carousel/slick/slick.scss",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/slick-carousel/slick/slick.scss",
       "AssetKind": "All",
@@ -3298,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot/plugins/slick-carousel/slick/slick.scss"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/smoothscroll/SmoothScroll.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/smoothscroll/SmoothScroll.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/smoothscroll/SmoothScroll.js",
       "AssetKind": "All",
@@ -3315,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot/plugins/smoothscroll/SmoothScroll.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/smoothscroll/SmoothScroll.min.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/smoothscroll/SmoothScroll.min.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/smoothscroll/SmoothScroll.min.js",
       "AssetKind": "All",
@@ -3332,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot/plugins/smoothscroll/SmoothScroll.min.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/css/tether-theme-arrows-dark.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/tether/css/tether-theme-arrows-dark.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/tether/css/tether-theme-arrows-dark.css",
       "AssetKind": "All",
@@ -3349,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot/plugins/tether/css/tether-theme-arrows-dark.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/css/tether-theme-arrows-dark.min.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/tether/css/tether-theme-arrows-dark.min.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/tether/css/tether-theme-arrows-dark.min.css",
       "AssetKind": "All",
@@ -3366,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot/plugins/tether/css/tether-theme-arrows-dark.min.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/css/tether-theme-arrows.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/tether/css/tether-theme-arrows.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/tether/css/tether-theme-arrows.css",
       "AssetKind": "All",
@@ -3383,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot/plugins/tether/css/tether-theme-arrows.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/css/tether-theme-arrows.min.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/tether/css/tether-theme-arrows.min.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/tether/css/tether-theme-arrows.min.css",
       "AssetKind": "All",
@@ -3400,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot/plugins/tether/css/tether-theme-arrows.min.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/css/tether-theme-basic.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/tether/css/tether-theme-basic.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/tether/css/tether-theme-basic.css",
       "AssetKind": "All",
@@ -3417,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot/plugins/tether/css/tether-theme-basic.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/css/tether-theme-basic.min.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/tether/css/tether-theme-basic.min.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/tether/css/tether-theme-basic.min.css",
       "AssetKind": "All",
@@ -3434,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot/plugins/tether/css/tether-theme-basic.min.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/css/tether.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/tether/css/tether.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/tether/css/tether.css",
       "AssetKind": "All",
@@ -3451,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot/plugins/tether/css/tether.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/css/tether.min.css",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/tether/css/tether.min.css",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/tether/css/tether.min.css",
       "AssetKind": "All",
@@ -3468,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot/plugins/tether/css/tether.min.css"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/js/tether.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/tether/js/tether.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/tether/js/tether.js",
       "AssetKind": "All",
@@ -3485,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot/plugins/tether/js/tether.js"
     },
     {
-      "Identity": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/plugins/tether/js/tether.min.js",
+      "Identity": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/plugins/tether/js/tether.min.js",
       "SourceId": "rv",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/khoamai/Desktop/rv/rv/rv/wwwroot/",
+      "ContentRoot": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/wwwroot/",
       "BasePath": "_content/rv",
       "RelativePath": "plugins/tether/js/tether.min.js",
       "AssetKind": "All",

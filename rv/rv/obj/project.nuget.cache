@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rs/e3ICLz6UTVtPRjXAZj6t+B61lRFN9vzerAKuL7PhWtWdGobUhvypQlLnFXN8SwQVyxAHiZ0Mf7xsWX3P7iA==",
+  "dgSpecHash": "T/4FCnwrcGJb5qmks4PPTeeD2qyjGcynL4wm/eL1kj+XtyUu2BeZih0abZwUpUeantYZaqk7beQO9k0Nu9QJ/Q==",
   "success": true,
-  "projectFilePath": "/Users/khoamai/Desktop/rv/rv/rv/rv.csproj",
+  "projectFilePath": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/rv.csproj",
   "expectedPackageFiles": [
     "/Users/khoamai/.nuget/packages/aspnetcorehero.toastnotification/1.1.0/aspnetcorehero.toastnotification.1.1.0.nupkg.sha512",
     "/Users/khoamai/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",

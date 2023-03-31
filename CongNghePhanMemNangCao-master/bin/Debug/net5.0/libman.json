@@ -1,0 +1,34 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "font-awesome@6.4.0",
+      "destination": "wwwroot/font-awesome/"
+    },
+    {
+      "library": "fontawesome-iconpicker@3.2.0",
+      "destination": "wwwroot/fontawesome-iconpicker/"
+    },
+    {
+      "library": "startbootstrap-sb-admin-2@4.1.4",
+      "destination": "wwwroot/startbootstrap-sb-admin-2/"
+    },
+    {
+      "library": "jquery@3.6.4",
+      "destination": "wwwroot/jquery/"
+    },
+    {
+      "library": "jquery-easing@1.4.1",
+      "destination": "wwwroot/jquery-easing/"
+    },
+    {
+      "library": "script.js@2.5.9",
+      "destination": "wwwroot/script.js/"
+    },
+    {
+      "library": "bootstrap@5.2.3",
+      "destination": "wwwroot/bootstrap/"
+    }
+  ]
+}

@@ -10809,11 +10809,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/khoamai/Desktop/rv/rv/rv/rv.csproj",
+      "projectUniqueName": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/rv.csproj",
       "projectName": "rv",
-      "projectPath": "/Users/khoamai/Desktop/rv/rv/rv/rv.csproj",
+      "projectPath": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/rv.csproj",
       "packagesPath": "/Users/khoamai/.nuget/packages/",
-      "outputPath": "/Users/khoamai/Desktop/rv/rv/rv/obj/",
+      "outputPath": "/Users/khoamai/Desktop/thư mục không có tiêu đề/CongNghePhanMemNangCao/rv/rv/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/khoamai/.nuget/NuGet/NuGet.Config"
