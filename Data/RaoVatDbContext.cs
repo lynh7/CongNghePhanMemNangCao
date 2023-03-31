@@ -32,6 +32,8 @@ namespace CNPMNC.Data
         public DbSet<CNPMNC.Models.TrangThai> TrangThais { get; set; }
         public DbSet<CNPMNC.Models.LoaiTin> LoaiTins { get; set; }
         public DbSet<CNPMNC.Models.TinRaoVat> TinRaoVats { get; set; }
+        public DbSet<User> Users { get; set; }
+        public DbSet<Admin> Admins { get; set; }
 
 
 

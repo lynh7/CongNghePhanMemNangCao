@@ -186,5 +186,18 @@ namespace CNPMNC.Controllers
         {
             return _context.TinRaoVats.Any(e => e.TinRaoVatID == id);
         }
+
+
+        //Duyet Tin
+        public ActionResult DuyetTin (int id)
+        {
+            foreach(var p in _context.TinRaoVats.Where(s=>s.TinRaoVatID == id))
+            {
+                p.TrangThaiID = 1;
+            }
+            _context.SaveChanges();
+            return RedirectToAction(nameof(Index));
+        }
+
     }
 }

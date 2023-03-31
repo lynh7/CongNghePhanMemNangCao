@@ -167,3 +167,10 @@ C:\Users\trthi\source\repos\CNPMNC\obj\Debug\net5.0\Razor\Views\TinRaoVats\Delet
 C:\Users\trthi\source\repos\CNPMNC\obj\Debug\net5.0\Razor\Views\TinRaoVats\Details.cshtml.g.cs
 C:\Users\trthi\source\repos\CNPMNC\obj\Debug\net5.0\Razor\Views\TinRaoVats\Edit.cshtml.g.cs
 C:\Users\trthi\source\repos\CNPMNC\obj\Debug\net5.0\Razor\Views\TinRaoVats\Index.cshtml.g.cs
+C:\Users\trthi\source\repos\CNPMNC\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\trthi\source\repos\CNPMNC\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\trthi\source\repos\CNPMNC\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+C:\Users\trthi\source\repos\CNPMNC\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\Users\trthi\source\repos\CNPMNC\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\trthi\source\repos\CNPMNC\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\trthi\source\repos\CNPMNC\obj\Debug\net5.0\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs

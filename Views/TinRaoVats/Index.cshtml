@@ -101,6 +101,11 @@
                 @Html.DisplayFor(modelItem => item.TrangThai.tenTrangThai)
             </td>
             <td>
+                @{ if (item.TrangThaiID == 2)
+                    {
+                        @Html.ActionLink("Duyệt Bài", "DuyetTin", new { id = item.TinRaoVatID }); <p>|</p>
+                    }
+                }
                 <a asp-action="Edit" asp-route-id="@item.TinRaoVatID">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.TinRaoVatID">Details</a> |
                 <a asp-action="Delete" asp-route-id="@item.TinRaoVatID">Delete</a>

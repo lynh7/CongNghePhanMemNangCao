@@ -30,6 +30,7 @@ namespace CNPMNC
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddSession();
             services.AddDbContext<RaoVatDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Default Connection")));
             
             /*
@@ -58,7 +59,8 @@ namespace CNPMNC
             app.UseStaticFiles();
 
             app.UseRouting();
-           
+            app.UseAuthorization();
+            app.UseSession();
 
             app.UseEndpoints(endpoints =>
             {
